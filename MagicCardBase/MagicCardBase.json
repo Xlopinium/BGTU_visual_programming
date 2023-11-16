@@ -1,0 +1,1032 @@
+[
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 0",
+        "power": "",
+        "price": 8.88,
+        "text": "Some text about Card 0",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 3",
+        "power": "",
+        "price": 1.76,
+        "text": "Some text about Card 3",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 4",
+        "power": "",
+        "price": 7.53,
+        "text": "Some text about Card 4",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 5",
+        "power": "",
+        "price": 3.07,
+        "text": "Some text about Card 5",
+        "toughness": "",
+        "type": "Sorcery"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 6",
+        "power": "",
+        "price": 3.25,
+        "text": "Some text about Card 6",
+        "toughness": "",
+        "type": "Enchantment"
+    },
+    {
+        "color": "Green",
+        "features": "Flying",
+        "name": "Card 7",
+        "power": "",
+        "price": 7.82,
+        "text": "Some text about Card 7",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 8",
+        "power": "",
+        "price": 1.39,
+        "text": "Some text about Card 8",
+        "toughness": "",
+        "type": "Enchantment"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 9",
+        "power": "",
+        "price": 1.24,
+        "text": "Some text about Card 9",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 10",
+        "power": "",
+        "price": 3.79,
+        "text": "Some text about Card 10",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 11",
+        "power": "",
+        "price": 6.74,
+        "text": "Some text about Card 11",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 12",
+        "power": "",
+        "price": 8.97,
+        "text": "Some text about Card 12",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Colorless",
+        "features": "Reach",
+        "name": "Card 13",
+        "power": "",
+        "price": 7.65,
+        "text": "Some text about Card 13",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 14",
+        "power": "",
+        "price": 4.13,
+        "text": "Some text about Card 14",
+        "toughness": "",
+        "type": "Sorcery"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 15",
+        "power": "",
+        "price": 4.12,
+        "text": "Some text about Card 15",
+        "toughness": "",
+        "type": "Land"
+    },
+    {
+        "color": "White",
+        "features": "",
+        "name": "Card 16",
+        "power": "",
+        "price": 1.31,
+        "text": "Some text about Card 16",
+        "toughness": "",
+        "type": "Sorcery"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 17",
+        "power": "",
+        "price": 2.21,
+        "text": "Some text about Card 17",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 18",
+        "power": "",
+        "price": 7.05,
+        "text": "Some text about Card 18",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "White",
+        "features": "",
+        "name": "Card 19",
+        "power": "",
+        "price": 7.1,
+        "text": "Some text about Card 19",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Blue",
+        "features": "Deathtouch",
+        "name": "Card 20",
+        "power": "",
+        "price": 9.35,
+        "text": "Some text about Card 20",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 21",
+        "power": "",
+        "price": 9.63,
+        "text": "Some text about Card 21",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "White",
+        "features": "Haste",
+        "name": "Card 22",
+        "power": "",
+        "price": 9.96,
+        "text": "Some text about Card 22",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Green",
+        "features": "First strike",
+        "name": "Card 23",
+        "power": "",
+        "price": 9.8,
+        "text": "Some text about Card 23",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 24",
+        "power": "",
+        "price": 5.7,
+        "text": "Some text about Card 24",
+        "toughness": "",
+        "type": "Sorcery"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 25",
+        "power": "",
+        "price": 8.01,
+        "text": "Some text about Card 25",
+        "toughness": "",
+        "type": "Enchantment"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 26",
+        "power": "",
+        "price": 9.18,
+        "text": "Some text about Card 26",
+        "toughness": "",
+        "type": "Sorcery"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 27",
+        "power": "",
+        "price": 3.16,
+        "text": "Some text about Card 27",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 28",
+        "power": "",
+        "price": 1.86,
+        "text": "Some text about Card 28",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 29",
+        "power": "",
+        "price": 1.32,
+        "text": "Some text about Card 29",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Black",
+        "features": "Deathtouch",
+        "name": "Card 30",
+        "power": "",
+        "price": 1.88,
+        "text": "Some text about Card 30",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 31",
+        "power": "",
+        "price": 5.94,
+        "text": "Some text about Card 31",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 32",
+        "power": "",
+        "price": 1.78,
+        "text": "Some text about Card 32",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "White",
+        "features": "",
+        "name": "Card 33",
+        "power": "",
+        "price": 2.82,
+        "text": "Some text about Card 33",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 34",
+        "power": "",
+        "price": 7,
+        "text": "Some text about Card 34",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 35",
+        "power": "",
+        "price": 5.57,
+        "text": "Some text about Card 35",
+        "toughness": "",
+        "type": "Land"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 36",
+        "power": "",
+        "price": 9.83,
+        "text": "Some text about Card 36",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 37",
+        "power": "",
+        "price": 2.73,
+        "text": "Some text about Card 37",
+        "toughness": "",
+        "type": "Sorcery"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 38",
+        "power": "",
+        "price": 4.2,
+        "text": "Some text about Card 38",
+        "toughness": "",
+        "type": "Sorcery"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 39",
+        "power": "",
+        "price": 3.72,
+        "text": "Some text about Card 39",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 40",
+        "power": "",
+        "price": 1.49,
+        "text": "Some text about Card 40",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 41",
+        "power": "",
+        "price": 1.87,
+        "text": "Some text about Card 41",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 42",
+        "power": "",
+        "price": 6.54,
+        "text": "Some text about Card 42",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "White",
+        "features": "",
+        "name": "Card 43",
+        "power": "",
+        "price": 1.96,
+        "text": "Some text about Card 43",
+        "toughness": "",
+        "type": "Sorcery"
+    },
+    {
+        "color": "Colorless",
+        "features": "Vigilance",
+        "name": "Card 44",
+        "power": "",
+        "price": 1.76,
+        "text": "Some text about Card 44",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 45",
+        "power": "",
+        "price": 8.08,
+        "text": "Some text about Card 45",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "White",
+        "features": "Flying",
+        "name": "Card 46",
+        "power": "",
+        "price": 7.4,
+        "text": "Some text about Card 46",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 47",
+        "power": "",
+        "price": 2.47,
+        "text": "Some text about Card 47",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 48",
+        "power": "",
+        "price": 4.66,
+        "text": "Some text about Card 48",
+        "toughness": "",
+        "type": "Land"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 49",
+        "power": "",
+        "price": 4.06,
+        "text": "Some text about Card 49",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 50",
+        "power": "",
+        "price": 2.15,
+        "text": "Some text about Card 50",
+        "toughness": "",
+        "type": "Enchantment"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 51",
+        "power": "",
+        "price": 9.75,
+        "text": "Some text about Card 51",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 52",
+        "power": "",
+        "price": 1.12,
+        "text": "Some text about Card 52",
+        "toughness": "",
+        "type": "Sorcery"
+    },
+    {
+        "color": "White",
+        "features": "",
+        "name": "Card 53",
+        "power": "",
+        "price": 3.63,
+        "text": "Some text about Card 53",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 54",
+        "power": "",
+        "price": 7.54,
+        "text": "Some text about Card 54",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 55",
+        "power": "",
+        "price": 9.77,
+        "text": "Some text about Card 55",
+        "toughness": "",
+        "type": "Sorcery"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 56",
+        "power": "",
+        "price": 6.84,
+        "text": "Some text about Card 56",
+        "toughness": "",
+        "type": "Land"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 57",
+        "power": "",
+        "price": 4.71,
+        "text": "Some text about Card 57",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "White",
+        "features": "",
+        "name": "Card 58",
+        "power": "",
+        "price": 6.75,
+        "text": "Some text about Card 58",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 59",
+        "power": "",
+        "price": 9.07,
+        "text": "Some text about Card 59",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "White",
+        "features": "Trample",
+        "name": "Card 60",
+        "power": "",
+        "price": 8,
+        "text": "Some text about Card 60",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "White",
+        "features": "",
+        "name": "Card 61",
+        "power": "",
+        "price": 7.94,
+        "text": "Some text about Card 61",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 62",
+        "power": "",
+        "price": 3.55,
+        "text": "Some text about Card 62",
+        "toughness": "",
+        "type": "Land"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 63",
+        "power": "",
+        "price": 8.03,
+        "text": "Some text about Card 63",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Green",
+        "features": "Lifelink",
+        "name": "Card 64",
+        "power": "",
+        "price": 2.85,
+        "text": "Some text about Card 64",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Colorless",
+        "features": "Reach",
+        "name": "Card 65",
+        "power": "",
+        "price": 9.06,
+        "text": "Some text about Card 65",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 66",
+        "power": "",
+        "price": 6.06,
+        "text": "Some text about Card 66",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 67",
+        "power": "",
+        "price": 5.29,
+        "text": "Some text about Card 67",
+        "toughness": "",
+        "type": "Enchantment"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 68",
+        "power": "",
+        "price": 9.46,
+        "text": "Some text about Card 68",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 69",
+        "power": "",
+        "price": 1.35,
+        "text": "Some text about Card 69",
+        "toughness": "",
+        "type": "Land"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 70",
+        "power": "",
+        "price": 7.19,
+        "text": "Some text about Card 70",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 71",
+        "power": "",
+        "price": 6.01,
+        "text": "Some text about Card 71",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 72",
+        "power": "",
+        "price": 6.35,
+        "text": "Some text about Card 72",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Blue",
+        "features": "Reach",
+        "name": "Card 73",
+        "power": "",
+        "price": 3.12,
+        "text": "Some text about Card 73",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 74",
+        "power": "",
+        "price": 3.74,
+        "text": "Some text about Card 74",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 75",
+        "power": "",
+        "price": 4.35,
+        "text": "Some text about Card 75",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Red",
+        "features": "Vigilance",
+        "name": "Card 76",
+        "power": "",
+        "price": 8.72,
+        "text": "Some text about Card 76",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 77",
+        "power": "",
+        "price": 3.23,
+        "text": "Some text about Card 77",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "White",
+        "features": "",
+        "name": "Card 78",
+        "power": "",
+        "price": 5.43,
+        "text": "Some text about Card 78",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "White",
+        "features": "",
+        "name": "Card 79",
+        "power": "",
+        "price": 6.76,
+        "text": "Some text about Card 79",
+        "toughness": "",
+        "type": "Land"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 80",
+        "power": "",
+        "price": 9.76,
+        "text": "Some text about Card 80",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 81",
+        "power": "",
+        "price": 4.56,
+        "text": "Some text about Card 81",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 82",
+        "power": "",
+        "price": 3.47,
+        "text": "Some text about Card 82",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 83",
+        "power": "",
+        "price": 2.5,
+        "text": "Some text about Card 83",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 84",
+        "power": "",
+        "price": 9.83,
+        "text": "Some text about Card 84",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Green",
+        "features": "First strike",
+        "name": "Card 85",
+        "power": "",
+        "price": 5.59,
+        "text": "Some text about Card 85",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 86",
+        "power": "",
+        "price": 9.06,
+        "text": "Some text about Card 86",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 87",
+        "power": "",
+        "price": 4.87,
+        "text": "Some text about Card 87",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 88",
+        "power": "",
+        "price": 5.01,
+        "text": "Some text about Card 88",
+        "toughness": "",
+        "type": "Enchantment"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 89",
+        "power": "",
+        "price": 4.23,
+        "text": "Some text about Card 89",
+        "toughness": "",
+        "type": "Land"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 90",
+        "power": "",
+        "price": 2.79,
+        "text": "Some text about Card 90",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 91",
+        "power": "",
+        "price": 1.95,
+        "text": "Some text about Card 91",
+        "toughness": "",
+        "type": "Land"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 92",
+        "power": "",
+        "price": 1.85,
+        "text": "Some text about Card 92",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Colorless",
+        "features": "",
+        "name": "Card 93",
+        "power": "",
+        "price": 9.63,
+        "text": "Some text about Card 93",
+        "toughness": "",
+        "type": "Land"
+    },
+    {
+        "color": "Green",
+        "features": "Trample",
+        "name": "Card 94",
+        "power": "",
+        "price": 4.86,
+        "text": "Some text about Card 94",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 95",
+        "power": "",
+        "price": 5.85,
+        "text": "Some text about Card 95",
+        "toughness": "",
+        "type": "Enchantment"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 96",
+        "power": "",
+        "price": 1.91,
+        "text": "Some text about Card 96",
+        "toughness": "",
+        "type": "Land"
+    },
+    {
+        "color": "White",
+        "features": "",
+        "name": "Card 97",
+        "power": "",
+        "price": 8.62,
+        "text": "Some text about Card 97",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Red",
+        "features": "",
+        "name": "Card 98",
+        "power": "",
+        "price": 8.77,
+        "text": "Some text about Card 98",
+        "toughness": "",
+        "type": "Artifact"
+    },
+    {
+        "color": "Green",
+        "features": "",
+        "name": "Card 99",
+        "power": "",
+        "price": 7.17,
+        "text": "Some text about Card 99",
+        "toughness": "",
+        "type": "Creature"
+    },
+    {
+        "color": "White",
+        "features": "",
+        "name": "Card 100",
+        "power": "",
+        "price": 9.46,
+        "text": "Some text about Card 100",
+        "toughness": "",
+        "type": "Sorcery"
+    },
+    {
+        "color": "Black",
+        "features": "",
+        "name": "Card 101",
+        "power": "",
+        "price": 8.4,
+        "text": "Some text about Card 101",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Blue",
+        "features": "",
+        "name": "Card 102",
+        "power": "",
+        "price": 5.31,
+        "text": "Some text about Card 102",
+        "toughness": "",
+        "type": "Instant"
+    },
+    {
+        "color": "Colorless",
+        "features": "Lifelink",
+        "name": "Card 103",
+        "power": "",
+        "price": 7.78,
+        "text": "Some text about Card 103",
+        "toughness": "",
+        "type": "Planeswalker"
+    },
+    {
+        "color": "Rainbow",
+        "features": "",
+        "name": "Card 777",
+        "power": "infinity",
+        "price": 7.77,
+        "text": "UNKNOWN",
+        "toughness": "",
+        "type": "Artifact"
+    }
+]
